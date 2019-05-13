@@ -12,7 +12,7 @@ project adheres to [Semantic Versioning](https://semver.org/).
 ### Added
 - for new features
 ### Changed
-- for changes in existing functionality
+- Update 'erdaltsksn/blank' to v0.2.0
 ### Removed
 - for now removed features
 ### Deprecated
