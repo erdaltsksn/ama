@@ -1,7 +1,5 @@
 # ASK ME ANYTHING
 
-[![Build Status](https://travis-ci.com/erdaltsksn/ama.svg?branch=master)](https://travis-ci.com/erdaltsksn/ama)
-
 ## About AMA (Ask me anything)
 
 Feel free to ask me **ANYTHING**.
@@ -34,17 +32,18 @@ personal, work, hobby, code, whatever.
 
 ## History
 
-See [CHANGELOG](CHANGELOG.md) to learn how this project evolved during the time.
+See [CHANGELOG](docs/CHANGELOG.md) to learn how this project evolved during the
+time.
 
 ## Contributing
 
 If you want to contribute to this project and make it better, your help is very
-welcome. See [CONTRIBUTING](CONTRIBUTING.md) for more information.
+welcome. See [CONTRIBUTING](docs/CONTRIBUTING.md) for more information.
 
 ## Code of Conduct
 
-This project adheres to [Code of Conduct](CODE_OF_CONDUCT.md). By participating,
-you are expected to uphold this code.
+This project adheres to [Code of Conduct](docs/CODE_OF_CONDUCT.md). By
+participating, you are expected to uphold this code.
 
 ## Disclaimer
 
@@ -56,4 +55,6 @@ connection with the use of this software.
 
 ## Feedback
 
-Suggestions / Improvements [WELCOME](https://github.com/erdaltsksn/ama/issues)!
+Suggestions / Improvements [WELCOME]!
+
+[WELCOME]: https://github.com/erdaltsksn/ama/issues
