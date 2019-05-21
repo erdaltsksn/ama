@@ -17,7 +17,7 @@ project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Changed
 
-- Update 'erdaltsksn/blank' to v1.5.0
+- Update 'erdaltsksn/blank' to v1.6.0
 
 ### Removed
 
