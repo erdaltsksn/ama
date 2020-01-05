@@ -1,6 +1,4 @@
-# ASK ME ANYTHING
-
-## About AMA (Ask me anything)
+# ASK ME ANYTHING (AMA)
 
 Feel free to ask me **ANYTHING**.
 
@@ -40,11 +38,6 @@ time.
 If you want to contribute to this project and make it better, your help is very
 welcome. See [CONTRIBUTING](docs/CONTRIBUTING.md) for more information.
 
-## Code of Conduct
-
-This project adheres to [Code of Conduct](docs/CODE_OF_CONDUCT.md). By
-participating, you are expected to uphold this code.
-
 ## Disclaimer
 
 In no event shall we be liable to you or any third parties for any special,
@@ -53,8 +46,3 @@ damages whatsoever, including, without limitation, those resulting from loss of
 use, data or profits, and on any theory of liability, arising out of or in
 connection with the use of this software.
 
-## Feedback
-
-Suggestions / Improvements [WELCOME]!
-
-[WELCOME]: https://github.com/erdaltsksn/ama/issues
