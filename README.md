@@ -28,11 +28,6 @@ personal, work, hobby, code, whatever.
 - [The Origin](https://www.reddit.com/r/IAmA)
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 
-## History
-
-See [CHANGELOG](docs/CHANGELOG.md) to learn how this project evolved during the
-time.
-
 ## Contributing
 
 If you want to contribute to this project and make it better, your help is very
@@ -45,4 +40,3 @@ punitive, incidental, indirect or consequential damages of any kind, or any
 damages whatsoever, including, without limitation, those resulting from loss of
 use, data or profits, and on any theory of liability, arising out of or in
 connection with the use of this software.
-
