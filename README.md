@@ -7,7 +7,7 @@ personal, work, hobby, code, whatever.
 
 ---
 
-## :speech_balloon: [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mailbox_with_mail: [Read questions](../../issues?utf8=✓&q=is%3Aissue+is%3Aclosed+label%3AAnswered+sort%3Aupdated-desc)
+### :speech_balloon: [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mailbox_with_mail: [Read questions](../../issues?utf8=✓&q=is%3Aissue+is%3Aclosed+label%3AAnswered+sort%3Aupdated-desc)
 
 ---
 
@@ -20,7 +20,8 @@ personal, work, hobby, code, whatever.
 - :bug: Bugs & feature requests should be opened on the relevant issue tracker.
 - :signal_strength: Support questions are better asked on Stack Overflow.
 - :blush: Be nice, civil and polite.
-- :heart_eyes: If you include at least one emoji in your question, the feedback will probably come faster.
+- :heart_eyes: If you include at least one emoji in your question, the feedback
+  will probably come faster.
 
 ## Links
 
