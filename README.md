@@ -11,7 +11,7 @@ personal, work, hobby, code, whatever.
 
 ---
 
-![Screenshot](/media/screenshot.png)
+![Screenshot](/assets/screenshot.png)
 
 ## Guidelines
 
