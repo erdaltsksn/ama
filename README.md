@@ -7,7 +7,8 @@ personal, work, hobby, code, whatever.
 
 ---
 
-### :speech_balloon: [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mailbox_with_mail: [Read questions](../../issues?utf8=✓&q=is%3Aissue+is%3Aclosed+label%3AAnswered+sort%3Aupdated-desc)
+[![Ask a question](https://img.shields.io/badge/💬-Ask%20a%20question-f27e63?style=for-the-badge)](../../issues/new)
+[![Read questions](https://img.shields.io/badge/📬-Read%20Questions-0476d9?style=for-the-badge)](../../issues?utf8=✓&q=is%3Aissue+is%3Aclosed+label%3AAnswered+sort%3Aupdated-desc)
 
 ---
 
