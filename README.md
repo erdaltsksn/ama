@@ -1,4 +1,4 @@
-# ASK ME ANYTHING (AMA)
+# Ask Me Anything (AMA)
 
 Feel free to ask me **ANYTHING**.
 
