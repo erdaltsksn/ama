@@ -1,18 +1,7 @@
 # Ask Me Anything (AMA)
 
-Feel free to ask me **ANYTHING**.
-
-I really mean anything. It does not have to be developer related. It can be life,
-personal, work, hobby, code, whatever.
-
----
-
-[![Ask a question](https://img.shields.io/badge/💬-Ask%20a%20question-f27e63?style=for-the-badge)](../../issues/new)
-[![Read questions](https://img.shields.io/badge/📬-Read%20Questions-0476d9?style=for-the-badge)](../../issues?utf8=✓&q=is%3Aissue+is%3Aclosed+label%3AAnswered+sort%3Aupdated-desc)
-
----
-
-![Screenshot](/assets/screenshot.png)
+[![Ask a question](assets/button-ask.png)](../../issues/new)
+[![Read questions](assets/button-read.png)](../../issues?utf8=✓&q=is%3Aissue+is%3Aclosed+label%3AAnswered+sort%3Aupdated-desc)
 
 ## Guidelines
 
